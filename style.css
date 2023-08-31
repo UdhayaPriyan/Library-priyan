@@ -1,0 +1,31 @@
+.body{
+    background-color: rgb(35, 10, 177);
+    color: #FFF;
+
+}
+#bookTable{
+    color:#FFF;
+}
+.modal{
+    color:navy;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+input{
+    padding: 10px;
+    margin: 10px;
+    width: 75%;
+}
+form{
+    width: 100%;
+}
+h1{
+    color:red;
+
+}
+
